@@ -1,0 +1,14 @@
+C:\Users\Thiago\Desktop\thi\projetosC#\projetoCarteiraValor\bin\Debug\net9.0\projetoCarteiraValor.exe
+C:\Users\Thiago\Desktop\thi\projetosC#\projetoCarteiraValor\bin\Debug\net9.0\projetoCarteiraValor.deps.json
+C:\Users\Thiago\Desktop\thi\projetosC#\projetoCarteiraValor\bin\Debug\net9.0\projetoCarteiraValor.runtimeconfig.json
+C:\Users\Thiago\Desktop\thi\projetosC#\projetoCarteiraValor\bin\Debug\net9.0\projetoCarteiraValor.dll
+C:\Users\Thiago\Desktop\thi\projetosC#\projetoCarteiraValor\bin\Debug\net9.0\projetoCarteiraValor.pdb
+C:\Users\Thiago\Desktop\thi\projetosC#\projetoCarteiraValor\obj\Debug\net9.0\projetoCarteiraValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\thi\projetosC#\projetoCarteiraValor\obj\Debug\net9.0\projetoCarteiraValor.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\thi\projetosC#\projetoCarteiraValor\obj\Debug\net9.0\projetoCarteiraValor.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\thi\projetosC#\projetoCarteiraValor\obj\Debug\net9.0\projetoCarteiraValor.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\thi\projetosC#\projetoCarteiraValor\obj\Debug\net9.0\projetoCarteiraValor.dll
+C:\Users\Thiago\Desktop\thi\projetosC#\projetoCarteiraValor\obj\Debug\net9.0\refint\projetoCarteiraValor.dll
+C:\Users\Thiago\Desktop\thi\projetosC#\projetoCarteiraValor\obj\Debug\net9.0\projetoCarteiraValor.pdb
+C:\Users\Thiago\Desktop\thi\projetosC#\projetoCarteiraValor\obj\Debug\net9.0\projetoCarteiraValor.genruntimeconfig.cache
+C:\Users\Thiago\Desktop\thi\projetosC#\projetoCarteiraValor\obj\Debug\net9.0\ref\projetoCarteiraValor.dll
