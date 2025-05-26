@@ -2,6 +2,19 @@ using System.Globalization;
 
 CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("pt-BR");
 
+ void apresentar() {
+
+    Console.WriteLine("Bem-vindo ao sistema de controle de carteira!");
+    Console.WriteLine("---------------------------------------------!");
+    Console.WriteLine("Escolha o seu tipo de moeda:");
+    Console.WriteLine("1 - Real");
+    Console.WriteLine("2 - Dólar");
+    Console.WriteLine("3 - Euro");
+    Console.WriteLine("4 - Libra");
+    Console.WriteLine("5 - Peso Argentino");
+    
+}
+
 int opcao;  //variavel utilizada para gerenciar o SWITCH - COntrole de fluso 
 int fluxoswitch; //esta variavel é responsável por gerennciar o Switch caso o cliente deseje converter o valor inicial por outro valor
 
@@ -11,14 +24,8 @@ decimal valorCarteiraTratado; // Esta variável é responsável por tratar valor
 Console.WriteLine("Digite o valor que você tem na sua carteira:");
 valorCarteira = decimal.Parse(Console.ReadLine());
 
-Console.WriteLine("Bem-vindo ao sistema de controle de carteira!");
-Console.WriteLine("---------------------------------------------!");
-Console.WriteLine("Escolha o seu tipo de moeda:");
-Console.WriteLine("1 - Real");
-Console.WriteLine("2 - Dólar");
-Console.WriteLine("3 - Euro");
-Console.WriteLine("4 - Libra");
-Console.WriteLine("5 - Peso Argentino");
+
+apresentar();
 
 opcao = int.Parse(Console.ReadLine());  //ira ler a escolha do cliente. 
 
